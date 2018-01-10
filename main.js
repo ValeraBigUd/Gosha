@@ -1,6 +1,6 @@
 
 
-const TeleBot = require('telebot', 'math');
+const TeleBot = require('telebot');
 const bot = new TeleBot('532988812:AAGRjJCacLB5sbhzq4OBbNR6JyUjmB_jrR8');
 
 const someArray = ['One', 'Two', 'Three', 'Four', 'Five'];
