@@ -2,6 +2,7 @@
   "name": "privet",
   "version": "0.0.1",
   "dependencies": {
-    "telebot":"^1.2.3"
+    "telebot": "^1.2.3",
+    "math": "^0.0.3"
   }
 }
