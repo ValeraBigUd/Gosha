@@ -2,7 +2,31 @@
   "name": "privet",
   "version": "0.0.1",
   "dependencies": {
-    "telebot": "^1.2.3",
-    "math": "^0.0.3"
-  }
+    "express": "^4.16.2",
+    "koa": "^2.4.1",
+    "koa-router": "^7.3.0",
+    "math": "^0.0.3",
+    "telebot": "^1.2.3"
+  },
+  "engines": {
+    "node": "^9.2.0",
+    "npm": "^5.5.1"
+  },
+  "description": "\"# Gosha\"  git init git add README.md git commit -m \"first commit\" git remote add origin https://github.com/ValeraBigUd/Gosha.git git push -u origin master",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeraBigUd/Gosha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeraBigUd/Gosha/issues"
+  },
+  "homepage": "https://github.com/ValeraBigUd/Gosha#readme"
 }
