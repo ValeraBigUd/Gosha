@@ -4,7 +4,7 @@ const bot = new TeleBot({
     webhook: {
         key: './webhook_pkey.pem',
         cert: './webhook_cert.pem',
-        url: '',
+        url: 'https://hidden-plateau-41650.herokuapp.com',
         host: '0.0.0.0',
         port: 3000
     }
