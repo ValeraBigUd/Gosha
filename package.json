@@ -1,10 +1,8 @@
 {
   "name": "privet",
-  "version": "0.0.1",
+  "version": "0.9.2",
   "dependencies": {
     "express": "^4.16.2",
-    "koa": "^2.4.1",
-    "koa-router": "^7.3.0",
     "math": "^0.0.3",
     "telebot": "^1.2.3"
   },
