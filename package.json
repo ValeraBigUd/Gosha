@@ -4,7 +4,7 @@
   "dependencies": {
     "express": "^4.16.2",
     "math": "^0.0.3",
-    "telebot": "^1.2.3"
+    "node-telegram-bot-api": "^0.30.0"
   },
   "engines": {
     "node": "^9.2.0",
